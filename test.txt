@@ -1,2 +1,6 @@
 chao cau
+<<<<<<< HEAD
 han hanh duoc lam quen cho minh lam quen nha
+=======
+han hanh duoc lam quen lam quen cai cc
+>>>>>>> f8e618230d68ce5d8e4dadb37c80ee2020993306
